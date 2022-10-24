@@ -1,0 +1,27 @@
+[
+    {
+        "course_id": "01",
+        "name": "C"
+    },
+    {
+        "course_id": "01",
+        "name": "C++"
+    },
+    {
+        "course_id": "01",
+        "name": "Java"
+    },
+    {
+        "course_id": "01",
+        "name": "Python"
+    },
+    {
+        "course_id": "01",
+        "name": "Javascript"
+    },
+    {
+        "course_id": "01",
+        "name": "PHP"
+    }
+    
+]
