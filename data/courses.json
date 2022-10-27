@@ -6,6 +6,7 @@
         "total_view": 488,
         "title": "C Programming for Beginners",
         "course_fee":"2500k",
+        "discount":"2000k",
         "instructor": {
           "name": "Sazzad Hossain",
           "course_duration": "7.00hr",
@@ -23,6 +24,7 @@
         "total_view": 488,
         "title": "C++ Programming for Beginners",
         "course_fee":"3000k",
+        "discount":"2500k",
         "instructor": {
           "name": "Rakibul Islam",
           "course_duration": "9.00hr",
@@ -39,6 +41,7 @@
         "total_view": 488,
         "title": "Introduction to Java",
         "course_fee":"4000k",
+        "discount":"3500k",
         "instructor": {
           "name": "Tasmim Rahman",
           "course_duration": "10.00hr",
@@ -55,6 +58,7 @@
         "total_view": 488,
         "title": "Crash Course on Python",
         "course_fee":"6000k",
+        "discount":"5500k",
         "instructor": {
           "name": "Mahfijul Islam",
           "course_duration": "12.00hr",
@@ -71,6 +75,7 @@
         "total_view": 488,
         "title": "Javascript for Beginners",
         "course_fee":"6500k",
+        "discount":"6000k",
         "instructor": {
           "name": "Tanbin Yesmin",
           "course_duration": "9.00hr",
@@ -87,6 +92,7 @@
         "total_view": 488,
         "title": "PHP for Beginners",
         "course_fee":"5500k",
+        "discount":"2000k",
         "instructor": {
           "name": "Arefin Shawon",
           "course_duration": "10.00hr",

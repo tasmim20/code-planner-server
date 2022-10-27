@@ -1,32 +1,32 @@
 [
     {
-        "course_id": "01",
+        "id": "01",
         "name": "C",
         "image": "https://online.crbtech.in/wp-content/uploads/2019/03/C-programming-1024x530.png"
 
     },
     {
-        "course_id": "02",
+        "id": "02",
         "name": "C++",
         "image":"https://miro.medium.com/max/1400/1*mDKusLBkGKBWW4aycK4PCA.png"
     },
     {
-        "course_id": "03",
+        "id": "03",
         "name": "Java",
         "image":"https://www.thewindowsclub.com/wp-content/uploads/2020/11/Java-Programming-Language.jpg"
     },
     {
-        "course_id": "04",
+        "id": "04",
         "name": "Python",
         "image":"https://academy.zenva.com/wp-content/uploads/2020/11/Python-Programming-for-Beginners-1.png"
     },
     {
-        "course_id": "05",
+        "id": "05",
         "name": "Javascript",
         "image":"https://r6solution.com/wp-content/uploads/2021/03/5-javascript-project-ideas-for-beginner-programmers.jpg"
     },
     {
-        "course_id": "06",
+        "id": "06",
         "name": "PHP",
         "image":"https://image.shutterstock.com/image-photo/php-programming-language-word-middle-260nw-1760640758.jpg"
     }
